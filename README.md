@@ -2,7 +2,7 @@
 
 ## Contents
 
-This README only. The ETHRAEON assets live in the Eudaimonia V5.2 design system and in `Ethraeon-Systems/ethraeon-canonical-app`.
+This README only. The ETHRAEON assets live in the Eudaimonia V5.2 design system.
 
 ## Contact
 
